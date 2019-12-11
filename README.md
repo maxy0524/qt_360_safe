@@ -1,5 +1,5 @@
 # qt_360_safe
-qt高仿360安全卫士
+qt高仿360安全卫士,支持qt5 12.6版本
 
 效果图地址:
 https://blog.csdn.net/dkaily1314/article/details/65442765
