@@ -1,5 +1,6 @@
 #include "optimizewidget.h"
 #include "ui_optimizewidget.h"
+#include <QAction>
 
 OptimizeWidget::OptimizeWidget(QWidget *parent) :
     QWidget(parent),

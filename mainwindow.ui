@@ -256,7 +256,7 @@
       </rect>
      </property>
      <property name="text">
-      <string>阿斗制</string>
+      <string>老马版</string>
      </property>
     </widget>
     <widget class="HoverPushButton" name="pbLogion">

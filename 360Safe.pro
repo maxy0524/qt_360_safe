@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui webenginewidgets network
+QT       += core gui webenginewidgets network 3dinput
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 

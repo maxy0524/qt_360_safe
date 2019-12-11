@@ -1,5 +1,6 @@
 #include "fixwidget.h"
 #include "ui_fixwidget.h"
+#include <QAction>
 
 FixWidget::FixWidget(QWidget *parent) :
     QWidget(parent),

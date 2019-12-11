@@ -1,6 +1,7 @@
 #include "clearwidget.h"
 #include "ui_clearwidget.h"
 #include <qdebug.h>
+#include <QAction>
 
 ClearWidget::ClearWidget(QWidget *parent) :
     QWidget(parent),

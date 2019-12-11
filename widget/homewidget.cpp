@@ -1,5 +1,6 @@
 #include "homewidget.h"
 #include "ui_homewidget.h"
+#include <QAction>
 
 
 HomeWidget::HomeWidget(QWidget *parent) :

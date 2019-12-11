@@ -1,5 +1,6 @@
 #include "horsewidget.h"
 #include "ui_horsewidget.h"
+#include <QAction>
 
 HorseWidget::HorseWidget(QWidget *parent) :
     QWidget(parent),
